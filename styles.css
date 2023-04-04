@@ -151,7 +151,67 @@ body {
 
 /* Media query for mobile responsive layout */
 
-@media (max-width: 650px) {
+@media (max-width: 1000px) {
+  /* CSS Flexbox Layout */
+  .grid-wrapper {
+    margin: 100px auto;
+  }
+  .grid {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 1320px;
+  }
+
+  /* Title section */
+  .grid-box1 {
+    margin-bottom: 30px;
+  }
+  .grid-box1 h1,
+  .grid-box1 p {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* Rating section */
+
+  .grid-box2 {
+    width: 100%;
+    margin-bottom: 35px;
+  }
+
+  .rating-box {
+    width: 100%;
+  }
+
+  #rating1,
+  #rating2,
+  #rating3 {
+    margin: 0 0 15px 0;
+  }
+
+  .rating-box span {
+    display: block;
+    text-align: center;
+  }
+
+  .rating-stars {
+    padding: 0 0 5px 0;
+  }
+
+  /* Review section */
+
+  .grid-box3 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #review1,
+  #review2,
+  #review3 {
+    margin: 0 0 15px 0;
+  }
 }
 
 /* Footer */
