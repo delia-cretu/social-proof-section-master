@@ -11,14 +11,14 @@ The designs were created to the following widths:
 
 ### Primary
 
-Very Dark Magenta: hsl(300, 43%, 22%) #502050
-Soft Pink: hsl(333, 80%, 67%) #ee68a4
+Very Dark Magenta: hsl(300, 43%, 22%) #502050 used
+Soft Pink: hsl(333, 80%, 67%) #ee68a4 used
 
 ### Neutral
 
 Dark Grayish Magenta: hsl(303, 10%, 53%) #937b92
-Light Grayish Magenta: hsl(300, 24%, 96%) #f7f2f7
-White: hsl(0, 0%, 100%)
+Light Grayish Magenta: hsl(300, 24%, 96%) #f7f2f7 used
+White: hsl(0, 0%, 100%) used
 
 ## Typography
 
