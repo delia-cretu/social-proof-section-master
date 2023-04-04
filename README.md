@@ -12,7 +12,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -20,12 +19,16 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 Users should be able to:
 
+- View the optimal layout for the site depending on their device's screen size
+
 ### Screenshot
+
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/delia-cretu/social-proof-section-master
+- Live Site URL: https://delia-cretu.github.io/social-proof-section-master/
 
 ## My process
 
@@ -33,12 +36,13 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Flexbox
 - CSS Grid
 
 ### What I learned
 
+I was proud I figured out how to use CSS Flexbox inside individual elements that are part of a CSS Grid.
+
 ### Continued development
 
-I continue to improve my knwoledge of CSS Grid.
-
-### Useful resources
+I used a lot of classes and IDs in this HTML document and would like to figure out a way to reduce them in order to make my code more efficient and easier to follow.
